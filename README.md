@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanasmarcin
 - 👀 I’m interested in new opportunities as an Android developer!
-- 🌱 I’m currently learning Jetpack Compose declarational UI creation.
+- 🌱 I’m currently mastering Jetpack Compose.
 - 💞️ I’m looking to collaborate on open libraries for Android.
 - 📫 How to reach me - use my email or Linkedin account!
 
